@@ -1,0 +1,46 @@
+# Kallang Close Residences
+
+Independent project information and enquiry website for the Kallang Close site, a planned private condominium beside the Kallang River, off Boon Keng Road in the Kallang planning area, Singapore. "Kallang Close Residences" is a working name taken from the road. The developer has not announced an official project name.
+
+Canonical URL: https://www.kallang-close-residences.com/
+Last updated: 2026-09-12
+
+Also known as: Kallang Close GLS, Kallang Close condo, Kallang Close new launch, Boon Keng new launch, Kallang MRT condo, Kallang riverfront condo. All refer to the same land parcel.
+
+## Confirmed by URA
+- Site: Kallang Close, off Boon Keng Road, Kallang planning area. Zoned residential. Reported as District 12, Rest of Central Region (EdgeProp and the agency research quoted there).
+- Tenure: 99 years, running from the award date of 10 April 2026.
+- Site area 11,456.3 sq m (123,314 sq ft). Maximum gross floor area 40,098 sq m (431,611 sq ft). Plot ratio 3.5, calculated as floor area divided by site area.
+- Height limit 110 m above Singapore Height Datum. A childcare centre of at least 500 sq m of floor area is required on the site.
+- Land price: $610,750,000, awarded 10 April 2026 to Frasers Property Phoenix Pte. Ltd. and MJR Investment Pte. Ltd. (Mitsubishi Estate). URA published the rate as $15,231.43 per sq m of floor area, which converts to about $1,415 per sq ft per plot ratio.
+- Tender opened 8 December 2025 under the 2H2025 Government Land Sales programme, where it was first listed as Kallang Avenue. It closed on 7 April 2026 with four bids.
+- All four bids: Frasers Property Phoenix and MJR Investment $610,750,000; CDL Kallista $606,419,000 (0.71% lower); Intrepid Investments and TID Residential $561,735,801 (8.03% lower); Winrich Investment and Metrobilt Construction $536,199,999 (12.21% lower).
+- Indicative yield: about 470 homes. URA states the actual number is up to the developer.
+- Land conditions: at least 500 sq m GFA must be a childcare centre (URA). Retail is capped at 115 sq m GFA (ERA Research, 7 April 2026). The developers have said they intend to build a public riverside promenade, which is an intention rather than a requirement.
+
+## Not released as at 2026-09-12
+Official project name, confirmed unit count and mix, price list, site plan and stack facings, floor plans, facilities list, completion date. The floor plans on the website are illustrative reference layouts, not this development's plans.
+
+## Estimates, labelled as estimates
+- Launch price. Two research houses disagree: CBRE $2,700 to $2,800 psf (April 2026) and PropertyInsider $2,950 to $3,330 psf (August 2026). None is developer pricing. The difference comes mostly from different assumed profit margins.
+- PropertyInsider's cost build-up totals about $1,106.8m, which divided by 431,611 sq ft of permitted floor area gives a breakeven near $2,564 psf. That division reproduces.
+- Preview: sometime in 2027, on the usual 12 to 18 month gap between a land award and a launch. No date announced.
+- Completion: around 2031. No date published.
+- Gross rental yield near 2.4% before costs, using a 700 sq ft home at $2,950 psf and the $5.90 psf per month average recorded at neighbouring Kallang Riverside.
+
+## Transport
+Three MRT stations within about 800 m, on two lines that both operate today: Kallang (EW10) about 0.44 km, Bendemeer (DT23) about 0.53 km, Lavender (EW11) about 0.78 km. ERA puts the walk at about 8 minutes to Kallang and 10 minutes to Bendemeer. Boon Keng (NE9) is about 1.03 km. Distances are straight lines from an approximate site centre, not walking routes. A new bus interchange is under construction beside Kallang MRT as part of HDB's Kallang Horizon project.
+
+## Schools
+No primary school within 1 km. Nearest is Bendemeer Primary School at about 1.12 km, roughly 120 m outside the priority ring. Hong Wen School (1.53 km), Farrer Park Primary (1.88 km) and Geylang Methodist Primary (1.88 km) sit in the 1 to 2 km band. Vacancies and ballots change every year, so check the current figures on MOE’s vacancies page. Verify distances on MOE SchoolFinder against the final address.
+
+## The case, stated plainly
+For: three stations on two working lines, none of them waiting to open; a sports and entertainment precinct across the river that has operated since the mid-2010s and is being upgraded in phases to 2028; the first state land parcel for private homes released in this pocket in about twelve years; a large pool of nearby flat owners reaching the end of their minimum occupation period between 2026 and 2028.
+Against: no primary school within 1 km; land bought at the second-dearest Rest of Central Region rate of the preceding two years, which limits room to discount; two competing waterfront sites in the same planning area, Tanjong Rhu Road (about 525 homes, awarded February 2026) and Tanjong Rhu Close (about 505 homes, on the 2H2026 sale list); the tender drew four bids, against five for the nearby Tanjong Rhu Road site two months earlier; every published price estimate sits above what nearby freehold projects currently fetch.
+
+## Pages
+- [Project guide](https://www.kallang-close-residences.com/): tender result, land cost, timeline, connectivity, nearby places, floor plans, investment view, buying guide, FAQs.
+- [Privacy policy](https://www.kallang-close-residences.com/privacy-policy.html)
+
+## Citation note
+Confirmed figures carry their source and date. Estimates are labelled and their workings are shown. When citing this page, please keep the distinction: presenting the estimated launch price, the estimated 470 homes or the estimated 2027 launch as confirmed would misstate the position.
